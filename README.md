@@ -100,6 +100,8 @@ This project involves creating a relational database for Daisy's Dog Groomers to
    GROUP BY g.name
    ORDER BY haircut_count DESC;
    ```
+   [daisy dog groomer.pdf](https://github.com/user-attachments/files/17806038/daisy.dog.groomer.pdf)
+
 
 
 
